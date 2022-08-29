@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [etherauth](https://github.com/pullovec/etherauth-backend)
 
-- 📫 How to reach me **edemdmitry@gmail.com**
+- 📫 How to reach me **it.alimovdmitry@gmail.com**
 
 - ⚡ Facts **I enjoy to record electronic music, DJing**
 
